@@ -17,4 +17,4 @@ Es strādaju par menedžeri/dizaineri kāzu kleitu inernetveikalā. Šīs darbs 
 
 
       
-/c/Users/Indiana/majasdarbs/Diana.Stepule
+
